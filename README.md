@@ -1,5 +1,32 @@
-<h2 align="">Hello World 👋, I'm Tinith K.</h2>
-<p>I'm a passionate software engineer with a love for JavaScript and its frameworks. I thrive on the excitement of creating innovative solutions and pushing the boundaries of what's possible in the digital world. With a knack for problem-solving and a dedication to continuous learning, I'm always eager to explore new avenues in the ever-evolving field of software development.</p>
-<p dir="auto"><a align="center" href="https://github.com/tinithkorala"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="tinithkorala: PHP" style="max-width: 100%;"> <img width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="tinithkorala: Laravel" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="tinithkorala: MySQL" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="tinithkorala: mongoDB" style="max-width: 100%;">  <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="tinithkorala: HTML5" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="tinithkorala: CSS3" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="tinithkorala: Javascript" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tinithkorala: Tailwindcss" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="tinithkorala: Jquery" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="tinithkorala: React" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="tinithkorala: Redux" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="tinithkorala: Linux" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="tinithkorala: Apache" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="tinithkorala: Vagrant" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="tinithkorala: Docker" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="tinithkorala: AWS" style="max-width: 100%;"> <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="tinithkorala: Jenkins" style="max-width: 100%;"> </a></p>
-<img align="left" line_height="27" style="max-width: 100%;" height="150px" src="https://github-readme-stats.vercel.app/api?username=tinithkorala&show_icons=true&theme=gruvbox" />
-<img align="left" style="max-width: 100%;" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinithkorala&layout=compact&theme=gruvbox&langs_count=6" />
+# Hello there 👋,
+
+### My Self 🧔
+**Software engineer with a passion for solving real-world problems and a hunger to learn new things, especially in computer science and technology.**
+
+
+
+**My tech stack 💻** 
+
+```text
+🕰️ My Programming Activity Timeline
+
+- 🌐 JavaScript    █████████████████████████░░░░░░░░░░░░░░   70%
+- 📘 TypeScript    █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
+- 🟢 Node.js       █████████████████████░░░░░░░░░░░░░░░░░░   50%
+- 🚂 Express.js    ███████████████████████████░░░░░░░░░░░░   60%
+- ⚛️ React          █████████████████████████████████░░░░░░   70%
+- 🔄 Redux         ███████████████████████████░░░░░░░░░░░░   60%
+- 🌐 Next.js       █████████████████░░░░░░░░░░░░░░░░░░░░░░   40%
+- 🐘 PHP           █████████████████████░░░░░░░░░░░░░░░░░░   50%
+- 🎋 Laravel       █████████████████████░░░░░░░░░░░░░░░░░░   50%
+- 🎨 Tailwind CSS  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20%
+- 🎨 CSS           █████████████████████░░░░░░░░░░░░░░░░░░   50%
+- 🎨 SCSS          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
+- 🐬 MySQL         █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
+- 🐘 PostgreSQL    ███████████████████░░░░░░░░░░░░░░░░░░░░   45%
+- 🍃 MongoDB       █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
+- ☁️ Amazon EC2     ███████████████████░░░░░░░░░░░░░░░░░░░░   45%
+- 🌍 Git           █████████████████████░░░░░░░░░░░░░░░░░░   50%
+- 🐧 Linux         ███████████████████████████░░░░░░░░░░░░   60%
+- 💳 Stripe        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20%
+
