@@ -166,7 +166,7 @@ Personal Info: {
   name: 'Tinith Korala',
   title: 'Software Engineer',
   email: 'tinithkorala@gmail.com',
-  phones: [ '+94702328486', '+94762072800' ],
+  phones: ['+94762072800'],
   address: 'Battaramulla, Colombo',
   linkedin: 'tinith-korala',
   experience: '4+ years'
@@ -242,7 +242,7 @@ Available: true
 
 - 📧 Email: tinithkorala@gmail.com
 - 💼 LinkedIn: [tinith-korala](https://linkedin.com/in/tinith-korala)
-- 📱 Phone: +94702328486
+- 📱 Phone: +94762072800
 
 ---
 
