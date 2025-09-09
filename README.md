@@ -38,7 +38,7 @@ class Tinith {
     private name: string = "Tinith Korala";
     private title: string = "Software Engineer";
     private email: string = "tinithkorala@gmail.com";
-    private phones: string[] = ["+94702328486", "+94762072800"];
+    private phones: string[] = ["+94762072800"];
     private location: string = "Battaramulla, Colombo";
     private linkedin: string = "tinith-korala";
     private experience: number = 4;
